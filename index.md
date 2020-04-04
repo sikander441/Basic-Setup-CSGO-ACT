@@ -48,6 +48,8 @@ Following are the most basic things you need to set up and be ready before your 
  NOTE: Even after joining group not able to see the lobby? You need to get access for the  lobbies first. For that you click on the section with the Date of your match and under that the discussion named #get-role will be present.
  
  Click on get-role, you will see a message asking you to react to a message(example screenshot below). Once you react you will be given access to the lobbies and you will be able to see the lobbies and join the lobby number asked to you by the admin.
+ 
+ [!text}(/discord.png)
   
  
 
