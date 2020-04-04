@@ -4,27 +4,13 @@ Following are the most basic things you need to set up and be ready before your 
 
 ### MOSS
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+ You need to set up MOSS, it is kind of an anti-cheat software that collects data from your system when you run the game to make sure you are not hacking:
+ 
 ```
+1.) Go to the website to download MOSS: [nohope.eu](https://nohope.eu) 
+2.) On the right hand side, download MOSS 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+```
 
 ### Jekyll Themes
 
