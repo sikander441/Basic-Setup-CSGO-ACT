@@ -1,6 +1,8 @@
 ## Welcome to ACT CSGO Tournament
 
-Following are the most basic things you need to set up and be ready before your match starts:
+Following are the most basic things you need to set up and be ready before your match starts, Make sure you check MOSS once that it works and understand how to get access to the lobby below.
+
+
 
 ### MOSS
 
@@ -29,17 +31,28 @@ Following are the most basic things you need to set up and be ready before your 
 
 6.) The MOSS application will show the message that Counter-Strike:Global Offensive Capture is Running. Now you can launch the game and start playing.
 
-7.) After you are done with your match, you can stop the caputre by again going to the MOSS app and capture -> Stop
+7.) After you are done with your match, you can stop the caputre by going to the MOSS app and capture -> Stop. After it stops succesfully it will show the location of the zip that was created as shown in the image:
+
+ ![text](/zip.png)
+ 
+8.) Upload this zip to the discord group as told by the admin.
 
 
+
+### Joining the Lobby
+
+ Once you are added to the whatsapp group, from there you will be asked to joing a voice server on discord with a given lobby number.
+ 
+ So be ready and join the Discord server before-hand, link: [Discord link](https://discord.gg/RHdaSM)
+ 
+ NOTE: Even after joining group not able to see the lobby? You need to get access for the  lobbies first. For that you click on the section with the Date of your match and under that the discussion named #get-role will be present.
+ 
+ Click on get-role, you will see a message asking you to react to a message(example screenshot below). Once you react you will be given access to the lobbies and you will be able to see the lobbies and join the lobby number asked to you by the admin.
   
  
 
+## Quries
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sikander441/actCSGOsetup/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ You can ask queries on discord under #queries-csgo.
+ 
+ Good luck and Have fun :-)
