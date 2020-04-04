@@ -54,7 +54,7 @@ Following are the most basic things you need to set up and be ready before your 
   
  
 
-## Quries
+## Queries
 
  You can ask queries on discord under #queries-csgo.
  
