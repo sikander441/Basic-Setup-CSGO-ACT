@@ -50,7 +50,7 @@ Following are the most basic things you need to set up and be ready before your 
  Click on get-role, you will see a message asking you to react to a message(example screenshot below). Once you react you will be given access to the lobbies and you will be able to see the lobbies and join the lobby number asked to you by the admin.
  
  
- [!text](/discord.png)
+ ![text](/discord.png)
   
  
 
