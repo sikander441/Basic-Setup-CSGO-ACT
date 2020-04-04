@@ -8,7 +8,8 @@ Following are the most basic things you need to set up and be ready before your 
  
 
 1.) Go to the website to download MOSS: [nohope.eu](https://nohope.eu) 
-2.) On the right hand side, download MOSS 
+
+2.) On the right hand side, download MOSS as shown in the image below
 
 
 
