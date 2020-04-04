@@ -1,10 +1,8 @@
 ## Welcome to ACT CSGO Tournament
 
-You can use the [editor on GitHub](https://github.com/sikander441/actCSGOsetup/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Following are the most basic things you need to set up and be ready before your match starts:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### MOSS
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
