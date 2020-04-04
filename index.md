@@ -11,6 +11,16 @@ Following are the most basic things you need to set up and be ready before your 
 
 2.) On the right hand side, download MOSS as shown in the image below
 
+  ![text](/download.png)
+
+ I have highligted the 64-bit version you can select the middle one for 32-bit system.
+ 
+3.) Extract the zip to some location on your computer and run the executable(.exe) file presend under the extracted location.( Be sure you don't have CSGO opened when you do this. close it before opening MOSS).
+
+4.) After the app launched click on File - > Parameters and select Counter-Strike: Global Offensive as shown in the image below
+
+  
+ 
 
 
 ### Jekyll Themes
